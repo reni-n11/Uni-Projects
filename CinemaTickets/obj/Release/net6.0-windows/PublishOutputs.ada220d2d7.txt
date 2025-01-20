@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\VSP_178knr_MyProject.exe
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\VSP_178knr_MyProject.dll
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\VSP_178knr_MyProject.deps.json
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\VSP_178knr_MyProject.runtimeconfig.json
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\VSP_178knr_MyProject.pdb

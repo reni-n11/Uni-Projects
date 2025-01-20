@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\bin\Release\net6.0-windows\VSP_178knr_MyProject.exe
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\bin\Release\net6.0-windows\VSP_178knr_MyProject.deps.json
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\bin\Release\net6.0-windows\VSP_178knr_MyProject.runtimeconfig.json
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\bin\Release\net6.0-windows\VSP_178knr_MyProject.dll
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\bin\Release\net6.0-windows\VSP_178knr_MyProject.pdb
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\obj\Release\net6.0-windows\VSP_178knr_MyProject.Form1.resources
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\obj\Release\net6.0-windows\VSP_178knr_MyProject.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\obj\Release\net6.0-windows\VSP_178knr_MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\obj\Release\net6.0-windows\VSP_178knr_MyProject.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\obj\Release\net6.0-windows\VSP_178knr_MyProject.AssemblyInfo.cs
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\obj\Release\net6.0-windows\VSP_178knr_MyProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\obj\Release\net6.0-windows\VSP_178knr_MyProject.dll
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\obj\Release\net6.0-windows\refint\VSP_178knr_MyProject.dll
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\obj\Release\net6.0-windows\VSP_178knr_MyProject.pdb
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\obj\Release\net6.0-windows\VSP_178knr_MyProject.genruntimeconfig.cache
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\obj\Release\net6.0-windows\ref\VSP_178knr_MyProject.dll
+C:\Users\Admin\source\repos\2023-2024\VSP-178knr\VSP_178knr_MyProject\obj\Release\net6.0-windows\VSP_178knr_MyProject.sourcelink.json
